@@ -1,0 +1,33 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.tablero {
+    background: url('./img/tablero.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.piedra {
+    background: url('./img/piedra.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.papel {
+    background: url('./img/papel.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.tijera {
+    background: url('./img/tijera.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
